@@ -1,9 +1,10 @@
 
 # About Me
 
-#### Hi, I'm Rishika! 😃
-###### I'm a master's student majoring in Computer Science at the University of California, Davis. 
-###### I'm currently educating myself about Large Language Models.
+#### Hi, I'm Rishika! 😃 
+###### I'm working as a Data Scientist at HCL America, Inc. 
+###### I did my Master's in Computer Science at the University of California, Davis. 
+###### I'm currently educating myself about Agentic AI.
 
 
 ## Connect with me
